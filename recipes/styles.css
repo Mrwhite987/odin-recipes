@@ -8,21 +8,20 @@ html {
 }
 
 h1 {
-  color: bc6c25;
+  color: #bc6c25;
   background-color: #faedcd;
   text-align: center;
 }
 
-p strong {
-  font-size: 24px;
-  font-weight: bold;
-}
-
-ul {
-  font-size: 20px;
-  color: #ccd5ae;
+h2 {
+  color: #d4a373;
 }
 
 li {
   margin: 0 0 10px 0;
+}
+
+img {
+  display: block;
+  margin: auto;
 }
